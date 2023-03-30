@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-v5",
+  "version": "1.0.0",
+  "description": "bs and sass test",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "bs",
+    "sass",
+    "v5"
+  ],
+  "author": "Aitor GS",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "^5.3.0-alpha1",
+    "sass": "^1.59.3"
+  }
+}
